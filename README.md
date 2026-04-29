@@ -30,9 +30,9 @@
 ---
 
 ## 📚 Cursos concluídos
-- 🧠 Lógica de Programação (40h)  
-- 🌐 HTML (curso completo)  
-- 🎨 CSS (7h / 28 aulas)  
+- 🧠 Lógica de Programação - Prof. Gustavo Guanabara (40h)  
+- 🌐 HTML - Canal Programação Web (curso completo)  
+- 🎨 CSS - Canal Programação Web (7h / 28 aulas)  
 
 ---
 
